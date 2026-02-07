@@ -195,7 +195,7 @@ Algunas métricas previstas:
 
 Este proyecto está pensado como:
 
-* Open Source (opcional)
+* Open Source
 * Experimental
 * En constante evolución
 
