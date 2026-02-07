@@ -1,42 +1,218 @@
-# sv
+# ⏱️ TICK — Time Is Capital Knowledge
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+TICK es una aplicación de **timeboxing y análisis de hábitos** diseñada para ayudarte a usar tu tiempo como un recurso estratégico.
 
-## Creating a project
+Su objetivo no es solo organizar tareas, sino **entender cómo trabajás, por qué te distraés y cómo mejorar tu rendimiento día a día**.
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```sh
-# create a new project
-npx sv create my-app
-```
+## 📌 Significado del Nombre
 
-To recreate this project with the same configuration:
+**TICK** es un acrónimo oculto de:
 
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --install npm [STUPID] - Tempalte
-```
+> **T**ime **I**s **C**apital **K**nowledge
 
-## Developing
+Cada minuto cuenta. Cada decisión suma datos. Cada hábito deja huella.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+---
 
-```sh
-npm run dev
+## 🎯 Objetivo del Proyecto
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Construir un sistema personal de gestión del tiempo que permita:
 
-## Building
+* Planificar el día con claridad.
+* Medir el foco real.
+* Detectar patrones de distracción.
+* Optimizar el rendimiento a largo plazo.
+* Tomar decisiones basadas en datos personales.
 
-To create a production version of your app:
+---
 
-```sh
-npm run build
-```
+## 🚀 Features Principales
 
-You can preview the production build with `npm run preview`.
+### 1. 📋 Lista del Día
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Visualización clara de:
+
+* Tareas planificadas.
+* Prioridades.
+* Estado actual.
+
+Permite responder rápido a:
+
+> ¿Qué tengo que hacer hoy?
+
+---
+
+### 2. ⏳ Temporizador Activo
+
+Muestra en tiempo real:
+
+* Tiempo restante.
+* Tiempo invertido.
+* Progreso de la tarea actual.
+
+Enfocado en mantenerte en modo **deep work**.
+
+---
+
+### 3. 📈 Evolución de Hábitos Positivos
+
+Seguimiento histórico de:
+
+* Cantidad de tareas.
+* Tiempo de estudio.
+* Tiempo en foco.
+* Sesiones productivas.
+
+Permite ver tu crecimiento real.
+
+---
+
+### 4. 📉 Análisis de Malos Hábitos
+
+Registro automático de:
+
+* Tiempo entre tareas.
+* Pausas innecesarias.
+* Distracciones.
+* Pérdida de foco.
+
+Transforma errores en información útil.
+
+---
+
+### 5. 🧠 Detección de Puntos Débiles
+
+Identificación de patrones como:
+
+* Exceso de descansos.
+* Fatiga temprana.
+* Dispersión.
+* Bloqueos mentales.
+
+Ayuda a entender **qué te frena y por qué**.
+
+---
+
+### 6. 🎯 Expected Performance (Rendimiento Esperado)
+
+Sistema de predicción diaria que estima:
+
+* Productividad esperada.
+* Nivel de foco.
+* Carga óptima.
+
+Permite compararte con tu mejor versión.
+
+---
+
+### 7. 🔍 Análisis de Distracciones
+
+Registro contextual de distracciones:
+
+* Tipo.
+* Momento.
+* Frecuencia.
+* Causa probable.
+
+Objetivo: convertir la distracción en dato.
+
+---
+
+## 🧩 Filosofía de Diseño
+
+TICK se basa en tres pilares:
+
+### 1. Simplicidad
+
+* Sin sobrecarga visual.
+* Sin features innecesarios.
+* Enfoque en lo esencial.
+
+### 2. Datos Personales
+
+* Tus métricas > métricas genéricas.
+* Sistema adaptativo.
+* Aprendizaje continuo.
+
+### 3. Autoconocimiento
+
+* No castiga errores.
+* No romantiza la productividad.
+* Promueve mejora sostenible.
+
+---
+
+## 🏗️ Estado del Proyecto
+
+* [ ] Diseño UI/UX
+* [ ] Core Timer
+* [ ] Sistema de Tracking
+* [ ] Analytics Engine
+* [ ] Dashboard
+* [ ] Motor de Insights
+* [ ] Exportación de Datos
+
+---
+
+## 📊 Métricas Clave (KPIs)
+
+Algunas métricas previstas:
+
+* Focus Ratio
+* Task Completion Rate
+* Distraction Index
+* Recovery Time
+* Daily Consistency
+* Cognitive Load
+
+---
+
+## 🛠️ Roadmap Inicial
+
+### Fase 1 — MVP
+
+* Lista diaria
+* Timer
+* Registro básico
+
+### Fase 2 — Analytics
+
+* Históricos
+* Gráficos
+* Reportes
+
+### Fase 3 — Inteligencia
+
+* Recomendaciones
+* Predicciones
+* Alertas
+
+---
+
+## 🤝 Contribuciones
+
+Este proyecto está pensado como:
+
+* Open Source (opcional)
+* Experimental
+* En constante evolución
+
+Las contribuciones son bienvenidas.
+
+---
+
+## 📄 Licencia
+
+Por definir.
+
+---
+
+## ✨ Visión
+
+> "No administrar el tiempo. Diseñar una vida enfocada."
+
+TICK busca ser más que una app:
+
+Un sistema personal de mejora continua basado en datos reales.
